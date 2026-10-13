@@ -1,23 +1,19 @@
-# Hi, I'm Curtis 👋
+# 💫 About Me:
+# Hi, I'm Curtis 👋<br><br>I'm a cybersecurity professional breaking into SOC, security analyst, and GRC roles, building on a background in identity verification, team leadership, and operations.<br><br>## Background<br>- **Identity verification** at ID.me, working with fraud and identity-proofing decisions<br>- **Team Lead / SME** at TMG Health (Cognizant), coaching teammates and handling escalations<br>- **Retail store management** before that, which is where I learned to lead people and run to a standard<br><br>## Certifications<br>CompTIA Security+ · CompTIA A+ · Google Cybersecurity Certificate<br><br>## What I'm building<br>Hands-on labs documented in my portfolio:<br>- SIEM and detection work in **Splunk** and **Azure Sentinel**<br>- Azure security and Log Analytics troubleshooting<br>- **ServiceNow** ITSM labs (Service Catalog, Incident Management)<br><br>## Looking for<br>Entry-level to mid-level roles in SOC analysis, IT compliance, and GRC.<br><br>🔗 **Portfolio:** https://c0d3ingsamuari415.github.io<br>💼 **LinkedIn:** https://www.linkedin.com/in/Curtis-nichols
 
-I'm a cybersecurity professional breaking into SOC, security analyst, and GRC roles, building on a background in identity verification, team leadership, and operations.
 
-## Background
-- **Identity verification** at ID.me, working with fraud and identity-proofing decisions
-- **Team Lead / SME** at TMG Health (Cognizant), coaching teammates and handling escalations
-- **Retail store management** before that, which is where I learned to lead people and run to a standard
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=C0d3ingSamuari415&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=C0d3ingSamuari415&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=C0d3ingSamuari415&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Certifications
-CompTIA Security+ · CompTIA A+ · Google Cybersecurity Certificate
+---
+[![](https://komarev.com/ghpvc/?username=C0d3ingSamuari415&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## What I'm building
-Hands-on labs documented in my portfolio:
-- SIEM and detection work in **Splunk** and **Azure Sentinel**
-- Azure security and Log Analytics troubleshooting
-- **ServiceNow** ITSM labs (Service Catalog, Incident Management)
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/curtisnichols415@gmail.com) 
 
-## Looking for
-Entry-level to mid-level roles in SOC analysis, IT compliance, and GRC.
-
-🔗 **Portfolio:** https://c0d3ingsamuari415.github
-💼 **LinkedIn:** https://www.linkedin.com/in/Curtis-nichols
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
